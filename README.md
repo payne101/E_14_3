@@ -45,14 +45,14 @@ Unlike the original post, this notebook uses the `bart-base` model because the `
 **Input:** A recording of folk songs done for the Columbia society in 1942 was largely arranged by Pjetër Dungu.  
 **Output:** A recording of folk songs done for Columbia society in 1942 was largely arranged by Pjetër Dungu.  
 
-**Input:** In mathematical astronomy, his fame is due to the introduction of the astronomical globe, and his early contributions to understanding the movement of the planets.
+**Input:** In mathematical astronomy, his fame is due to the introduction of the astronomical globe, and his early contributions to understanding the movement of the planets.  
 **Output:** His fame is due to the introduction of the astronomical globe and his early contributions to understanding the movement of the planets.  
 
-**Input:** Why are people obsessed with Cara Delevingne?
-**Output:** Why are people so obsessed with Cara Delevingne?  
+**Input:** Why are people obsessed with Cara Delevingne?  
+**Output:** Why are people so obsessed with Cara Delevingne?   
 
-**Input:** Earl St Vincent was a British ship that was captured in 1803 and became a French trade man.
+**Input:** Earl St Vincent was a British ship that was captured in 1803 and became a French trade man.  
 **Output:** Earl St Vincent was a British ship captured in 1803 and became a French trade man.  
 
-**Input:** Worcester is a town and county city of Worcestershire in England.
+**Input:** Worcester is a town and county city of Worcestershire in England.  
 **Output:** Worcester is a town and county city of Worcestershire in England.
